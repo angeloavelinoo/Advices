@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 60vh;
+    gap: 30px;
+}
+
+span{
+    color: royalblue;
+}
+
+h2{
+    font-size: 27px;
+}
+
+p{
+    font-size: 20px;
+}
